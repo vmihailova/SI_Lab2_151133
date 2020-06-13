@@ -46,9 +46,14 @@
     ![alt text](https://github.com/vmihailova/SI_lab2_151133/blob/master/MultipleConditionsDATA/MC2.png?raw=true)
     
  
- 3. if (user.getEmail()==null)
- 
- 
+ 3.  if (user.getEmail()==null)
+     Во овој чекор проверуваме дали user објектот содржи информација за електронската пошта на корисникот. 
+     Овде имаме 2 можни тестови:
+      - Доколку имаме вредност за електронската пошта, тогаш кодот продолжува да се извршува
+      - Доколку немаме вредност за електронската пошта, ќе се фрли исклучок
+     
+     ![alt text](https://github.com/vmihailova/SI_lab2_151133/blob/master/MultipleConditionsDATA/MC3.png?raw=true)
+
  4. if (user.getEmail().charAt(i)=='@')
  
  
