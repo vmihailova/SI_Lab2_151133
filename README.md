@@ -5,7 +5,7 @@
 Ја добив групата на код 2
 
 # Control Flow Graph
-![alt text](https://github.com/vmihailova/SI_Lab2_151133/blob/master/151133_Flow_Graph.png?raw=true)
+![alt text](https://github.com/vmihailova/SI_Lab2_151133/blob/master/151133_Control_Flow.png?raw=true)
 
 # Цикломатска комплексност
 Цикломатската комплексност на овој код е 8, истата ја добив со користење на 3-те формули за одредување на комплексноста.
