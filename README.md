@@ -83,7 +83,7 @@
 # Тест случаи според критериумот Every path
 
   Според овој критериум, имаме 13 возможни патеки, а тоа се следниве:
-  ![alt text](https://github.com/vmihailova/SI_lab2_151133/blob/master/every_path.png?raw=true)
+
 
 # Објаснување на напишаните unit tests
 ... ...
