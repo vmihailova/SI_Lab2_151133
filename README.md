@@ -60,7 +60,7 @@
      - Доколку моменталниот карактер е @, тогаш вредноста на atChar променливата ќе се промени во true
      - Доколку моменталниот карактер не е @, тогаш ќе заврши if-от
      
-   ![alt text](https://github.com/vmihailova/SI_lab2_151133/blob/master/MultipleConditionsDATA/MC4.png?raw=true)
+    ![alt text](https://github.com/vmihailova/SI_lab2_151133/blob/master/MultipleConditionsDATA/MC4.png?raw=true)
  
  5. if (atChar && user.getEmail().charAt(i)=='.')
     Во овој дел од валидацијата на електронската пошта, проверуваме доколку претходно е пронајден карактер '@', дали i-тиот карактер е '.'
