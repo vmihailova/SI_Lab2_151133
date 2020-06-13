@@ -81,7 +81,8 @@
     ![alt text](https://github.com/vmihailova/SI_lab2_151133/blob/master/MultipleConditionsDATA/MC6.png?raw=true)
 
 # Тест случаи според критериумот Every path
-....
+
+  
 
 # Објаснување на напишаните unit tests
 ... ...
